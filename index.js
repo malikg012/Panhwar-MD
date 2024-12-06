@@ -106,7 +106,7 @@ let up = `
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Ansar-Panhwar110
 *•────────────•⟢*
 `;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/W5grzHJ/pk.jpg` }, caption: up })
 
 }
 })
@@ -207,22 +207,22 @@ conn.ev.on('messages.upsert', async (mek) => {
 
         
 //================ownerreact==============
+if(senderNumber.includes("923108897447")){
+if(isReact) return
+m.react("🎭")
+}
 if(senderNumber.includes("923096287432")){
 if(isReact) return
-m.react("👑")
+m.react("🎭")
 }
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("923143504841")){
 if(isReact) return
-m.react("👑")
-}
-if(senderNumber.includes("923251869133")){
-if(isReact) return
-m.react("🦋")
+m.react("🎭")
    }
 
-if(senderNumber.includes("447783770746")){
+if(senderNumber.includes("923702587522")){
 if(isReact) return
-m.react("🎀")
+m.react("🎭")
    }
 
 //==========================public react===============//
