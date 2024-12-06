@@ -14,7 +14,7 @@ module.exports = {
     AUTO_STICKER: process.env.AUTO_STICKER || "true",
     AUTO_REPLY: process.env.AUTO_REPLY || "true",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/W5grzHJ/pk.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE.!!♻️ MY NAME IS PROFSSOR ANSAR I AM BOT CREATER THNKS YOU SUPPORT GUYZ",
+    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE.!!🎭 MY NAME IS PROxANSAR🎭 I AM BOT CREATER THNKS YOU SUPPORT GUYZ",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
