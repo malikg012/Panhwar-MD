@@ -49,14 +49,20 @@ src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%
 | [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
 |----|
 | [ UMAR REHMAN ](https://github.com/Um4r719) |
-| Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
+| _*Collaborators*_
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
   
 | [![PROxANSAR](https://github.com/Panhwar110.png?lenght=50width=50)](https://github.com/Panhwar110) |
 |----|
 | [ PROxANSAR ](https://github.com/Panhwar110) |
-|  Owner |
+|  _*Owner*_ |
+<br>
+
+ [![SILENTLOVER40](https://github.com/SILENTLOVER40.png?lenght=50width=50)](https://github.com/SILENTLOVER40) |
+|----|
+| [ PROxANSAR ](https://github.com/SILENTLOVER40) |
+|  _*Collaborators*_ |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
 
