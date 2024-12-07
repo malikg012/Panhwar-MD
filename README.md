@@ -1,99 +1,63 @@
-# Panhwar-Md
-<p align="center">
-<a href="https://github.com/Panhwar110"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<h1> PANHWAR-MD <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
 
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<br>
 
-### <br>  ❖ PANHWAR-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY ANSAR-PANHWAR`** 🔰
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=PROxANSAR%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
 
-----------
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***`FORK REPO`***
+
+  <a href="https://github.com/Panhwar110/Panhwar-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SOBIA MD" width="150"></a>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--------
-
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`ANSAR-PANHWAR" alt="">
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-----------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
--------
-
-### Setup
-
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Panhwar110/Panhwar-MD/fork) It***
-
-----------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
--------
-
-### <br>    ❖ SESSION_ID ❖
-
-
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
-
-----------
-
-<p align="center">
-<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+### <br> `PANHWAR MD WEBPAGE`
+<p align="left">
+<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
 <p/>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-----------
-
-----------
-
-<p align="center">
-<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
+### <br> `PANHWAR MD SESSION`
+<p align="left">
+<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
 <p/>
-
-----------
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--------
- 
-### <br>   ❖ DEPLOY_HEROKU ❖
-
-`✠ IF YOU WANT TO DEPLOY PANHWAR-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
-
-----------
-
+### <br> `HEROKU DEPLOYMENT`
+<p align="left">
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD"><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
+<p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--------
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD)
-
-----------
-
+### <br> `SUPPORT CHANNEL`
+<p align="left">
+<a href="https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U"><img height= "35" title="Author" src="https://img.shields.io/badge/Join-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--------
-
-## Contributions
-
-Contributions to PANHWAR-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-----------
-
+### <h1>OUR TEAM</h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<details>
+<h6>Authors</h6>
 
--------
-## License
-
-The PANHWAR-MD is released.
-
-Enjoy the diverse features of the PANHWAR-MD  to enhance your conversations and make your WhatsApp experience more interesting!
-
-
+<div align="center">
+  
+| [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
+|----|
+| [ UMAR REHMAN ](https://github.com/Um4r719) |
+| Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<br>
+  
+| [![PROxANSAR](https://github.com/Panhwar110.png?lenght=50width=50)](https://github.com/Panhwar110) |
+|----|
+| [ PROxANSAR ](https://github.com/Panhwar110) |
+|  Owner |
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  </div>
 
-*Thanks to:*
-## Allah
+</details>
