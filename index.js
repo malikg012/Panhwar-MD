@@ -65,7 +65,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING SOBIA BOT 🎭...");
+console.log("CONNECTING PANHWAR BOT 🎭...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -93,29 +93,29 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SOBIA MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('PANHWAR MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> * Sᴏʙɪᴀ Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Sᴏʙɪᴀ Wɪᴛʜ Uᴍ4ʀ*
+> * Sᴏʙɪᴀ Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ AnSaR¹¹⁰ Wɪᴛʜ Uᴍ4ʀ*
 
-> *Jᴏɪɴ Oᴜʀ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ Fᴏʀ Uᴘᴅᴀᴛᴇs Oꜰ Sᴏʙɪᴀ Mᴅ*
+> *Jᴏɪɴ Oᴜʀ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ Fᴏʀ Uᴘᴅᴀᴛᴇs Oꜰ PANHWAR Mᴅ*
 
-*https://whatsapp.com/channel/0029VaswGwq5a23yxeJ6YB3t*
+*https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
 
 > *Fᴏʟʟᴏᴡ Uꜱ Oɴ Iɴꜱᴛᴀɢʀᴀᴍ*
 
 *https://Instagram.com/um4rxd*
 
-*╭⊱✫ SOBIA MD ✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *SOBIA MD*
+*╭⊱✫ PANHWAR MD ✫⊱╮*
+*│✫➠ - 📂REPOSITORY NAME:* *PANHWAR MD*
 *│✫➠ - 📃DESCRIPTION:* *PAKISTANI BEST BOT*
-*│✫➠ - 🛡️OWNER:* *SOBIA BUTT*
-*│✫➠ - 🌐URL:* *https://github.com/Um4r719/SOBIA-MD*
+*│✫➠ - 🛡️OWNER:* *PROFESSOR ANSAR*
+*│✫➠ - 🌐URL:* *https://github.com/Um4r719/PANHWAR-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/m1rf91.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg` }, caption: up })
 
 }
 })
@@ -179,7 +179,7 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 //================ownerreact
-if(senderNumber.includes("447783770746")){
+if(senderNumber.includes("923108897447")){
 if(isReact) return
 m.react("👑")
 }
@@ -189,7 +189,7 @@ if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923475105032")){
+if(senderNumber.includes("923702587522")){
 if(isReact) return
 m.react("🦋")
    }
