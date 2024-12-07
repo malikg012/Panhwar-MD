@@ -69,7 +69,7 @@ src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%
 
   [![Awais-star-a11y](https://github.com/Awais-star-a11y.png?lenght=50width=50)](https://github.com/Awais-star-a11y) |
 |----|
-| [ SILENTLOVER40 ](https://github.com/Awais-star-a11y) |
+| [ Awais-star-a11y ](https://github.com/Awais-star-a11y) |
 |  _*Collaborators*_ |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
