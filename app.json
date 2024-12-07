@@ -1,7 +1,7 @@
 {
   "name": "PANHWAR-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ANSAR-PANHWAR¹¹⁰",
-  "logo": "https://i.ibb.co/W5grzHJ/pk.jpg",
+  "description": "PANHWAR MD IS THE MAKE BY USING BAILEY'S",
+  "logo": "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/W5grzHJ/pk.jpg"
+      "value": "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HII DEAR IM ONLINE.!!♻️ MY NAME IS PROFSSOR ANSAR I AM BOT CREATER THNKS YOU SUPPORT GUYZ"
+      "value": "HII I AM PROFESSOR ANSAR 🎭"
     },
     
     "PREFIX": {
@@ -75,7 +75,7 @@
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
-      "required": false,
+      "required": true,
       "value": "true"
     },
 
@@ -95,13 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦PANHWAR-MD✦"
-    }, 
-
-    "HEART_REACT": {
-      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
-      "required": true,
-      "value": "false"
+      "value": "PANHWAR MD"
     }
 
 },
