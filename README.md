@@ -57,11 +57,12 @@ src="https://cardivo.vercel.app/api?name=PANHWAR%20MD&description=A%20PAKISTANI%
 |----|
 | [ PROxANSAR ](https://github.com/Panhwar110) |
 |  _*Owner*_ |
-<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  </div>
 
  [![SILENTLOVER40](https://github.com/SILENTLOVER40.png?lenght=50width=50)](https://github.com/SILENTLOVER40) |
 |----|
-| [ PROxANSAR ](https://github.com/SILENTLOVER40) |
+| [ SILENTLOVER40 ](https://github.com/SILENTLOVER40) |
 |  _*Collaborators*_ |
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
