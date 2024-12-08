@@ -1,7 +1,7 @@
 {
   "name": "PANHWAR-MD",
   "description": "PANHWAR MD IS THE MAKE BY USING BAILEY'S",
-  "logo": "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg",
+  "logo": "https://endpoint.web.id/server/file/hN0zwDDwcw66gisn.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg"
+      "value": "https://endpoint.web.id/server/file/hN0zwDDwcw66gisn.jpg"
     }, 
     
     "ALIVE_MSG": {
