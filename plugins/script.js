@@ -13,13 +13,13 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *SOBIA BUTT*
+*|* *ANSAR PANHWAR*
 
 > *SOBIA MD REPO:*
-*|* *https://github.com/Sobxsparl/SOBIA-MD*
+*|* *https://github.com/Panhwar110/Panhwar-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029VaswGwq5a23yxeJ6YB3t*
+*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
 *╰──────────────●●►*
 
 > *update command Done*
@@ -36,10 +36,10 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SOBIA MD',
+title: 'PANHWAR MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Sobxsparl/SOBIA-MD" ,
+sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
 thumbnailUrl: "https://files.catbox.moe/m1rf91.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
