@@ -15,7 +15,7 @@ let repo =`
 > *BOT OWNER:*
 *|* *ANSAR PANHWAR*
 
-> *SOBIA MD REPO:*
+> *PANHWAR MD REPO:*
 *|* *https://github.com/Panhwar110/Panhwar-MD*
 
 > *SUPPORT CHANNEL:*
