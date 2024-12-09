@@ -1,9 +1,0 @@
------------
-
-***WELCOME TO PANHWAR-MD PLUGINS LIST CREATED BY ANSAR-PANHWAR***
-
------------
-
-***THE WORLD BEST WHATSAPP BOT***
-
-----------
