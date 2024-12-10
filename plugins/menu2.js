@@ -63,7 +63,7 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 
 
 *╭───────────────❒⁠⁠⁠⁠*
-*│* *_https://github.com/SILENTLOVER40/SILENT-SOBX-MD_*
+*│* *_https://github.com/Panhwar110/Panhwar-MD_*
 *┕───────────────❒*
 
 *╭───────────────❒⁠⁠⁠⁠*
