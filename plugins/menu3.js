@@ -177,7 +177,7 @@ let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+> *https://github.com/Panhwar110/Panhwar-MD*
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
