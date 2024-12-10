@@ -1,6 +1,6 @@
 {
-  "name": "PANHWAR-MD",
-  "description": "PANHWAR MD IS THE MAKE BY USING BAILEY'S",
+  "name": "ᴘᴀɴʜᴡᴀʀ-ᴍᴅ",
+  "description": "ANSAR-PANHWAR OWNER HAIN IS BOT KA SAMJH JAO",
   "logo": "https://endpoint.web.id/server/file/hN0zwDDwcw66gisn.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -11,18 +11,12 @@
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
-    },  
-    
-    "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
-      "required": true,
-      "value": "https://endpoint.web.id/server/file/hN0zwDDwcw66gisn.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HII I AM PROFESSOR ANSAR 🎭"
+      "value": "I AM ______________ FOR PANHWAR-MD"
     },
     
     "PREFIX": {
