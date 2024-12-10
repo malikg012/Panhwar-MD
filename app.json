@@ -72,7 +72,7 @@
       "required": true,
       "value": "true"
     },
-
+"<img>(https://endpoint.web.id/server/file/hN0zwDDwcw66gisn.jpg)"
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
