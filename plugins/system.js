@@ -69,7 +69,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 
 try{
 let madeSetting =`
-*[ •  SILENT-SOBX-MD - SETTINGS‎ • ]*
+*[ •  PANHWAR-MD - SETTINGS‎ • ]*
 *╭┈───────────────•*
 *┊* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┊* *♾️ MODE:* ➠ ${config.MODE} 
@@ -89,7 +89,7 @@ let madeSetting =`
 *┊* *♾️ READ_MESSAGE:* ➠ ${config.READ_MESSAGE}
 *╰┈───────────────•*
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ
 *•────────────•⟢*
 `
 
@@ -113,7 +113,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let status = `
-*[ •  SILENT-SOBX-MD - UPTIME ‎ • ]*
+*[ •  PANHWAR-MD - UPTIME ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_UPTIME:➠_*
 *│  ◦* ${runtime(process.uptime())}
@@ -130,7 +130,7 @@ let status = `
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ
 *•────────────•⟢*
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:`${status}`},{quoted:mek})
@@ -154,21 +154,21 @@ try{
 let repo =`
 *[ •  B O T - O W N E R ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *SILENTLOVER432*
+*│  ◦* *Aɴsᴀʀ-Pᴀɴʜᴡᴀʀ*
 *╰┈───────────────•*
 
-*[ •  SILENT-SOBX-MD - REPO ‎ • ]*
+*[ •  PANHWAR-MD - REPO ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+*│  ◦* *https://github.com/Panhwar110/Panhwar-MD*
 *╰┈───────────────•*
 
 *[ •  SUPPORT - GROUP‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+*│  ◦* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ
 *•────────────•⟢*
 `
 await conn.sendMessage(from, { text: repo ,
@@ -179,15 +179,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SILENTLOVER432",
+      newsletterName: "AɴsᴀʀPᴀɴʜᴡᴀʀ",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SILENT-SOBX-MD',
+title: 'PANHWAR-MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/SILENTLOVER40/SILENT-SOBX-MD" ,
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
+sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
+thumbnailUrl: "https://endpoint.web.id/server/file/hN0zwDDwcw66gisn.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
