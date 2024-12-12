@@ -34,7 +34,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/SILENTLOVER40/SILENT-SOBX-MD.git'; // لینک مخزن گیت‌هاب
+        const repoUrl = 'https://github.com/Panhwar110/Panhwar-MD.git'; // لینک مخزن گیت‌هاب
         const targetFolder = 'plugins'; // پوشه‌ای که باید به‌روز شود
 
         // بررسی وجود پوشه هدف
