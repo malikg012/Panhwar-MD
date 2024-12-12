@@ -1,7 +1,7 @@
 {
   "name": "SILENT-SOBX-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ",
-  "logo": "https://endpoint.web.id/server/file/hN0zwDDwcw66gisn.jpg",
+  "logo": "https://i.imghippo.com/files/VlzR4698Zv.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
+      "value": "https://i.imghippo.com/files/VlzR4698Zv.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "✦ᴘᴀɴʜᴡᴀʀ-ᴍᴅ✦"
     }, 
 
     "HEART_REACT": {
@@ -112,7 +112,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "ᴘᴏᴡᴇʀᴇ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ"
     }
 
 },
