@@ -185,7 +185,13 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
 ┏━━━━━━━━━━━━━━━━━━━
+ *ᴘᴀɴʜᴡᴀʀ-ᴍᴅ-ʙᴏᴛ*
 *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+┗━━━━━━━━━━━━━━━━━━━
+
+┏━━━━━━━━━━━━━━━━━━━
+ *OWNER MR YASEEN*
+*https://whatsapp.com/channel/0029VakmUVq8F2pJ5a92391H*
 ┗━━━━━━━━━━━━━━━━━━━
 
 
