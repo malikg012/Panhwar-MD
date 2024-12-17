@@ -81,6 +81,8 @@
 <a href="https://host.talkdrove.com/auth/signup?ref=2E22E5E8"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
 <p/>
 
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <br>    ❖  FREE DEPLOY HOST.TALKDROVE WEB ❖
 
