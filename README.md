@@ -75,7 +75,6 @@
     </a>
 </div>
 
-<div align="center">
 ### <br>    ❖ CREATE ACCOUNT HOST.TALKDROVE WEB ❖
 
 <p align="center">
