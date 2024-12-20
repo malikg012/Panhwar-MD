@@ -59,35 +59,6 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </div>
-
-<div align="center">
-
- ### 🔴 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
-   <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀2️⃣</h3>
-    <a href="https://panhwar-pair-9aaf305c0a91.herokuapp.com/">
-        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=heroku&logoColor=white">
-    </a>
-</div>
-<br>
-       <div align="center">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</div>
-
-<div align="center">
-
- ### 🔵 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
-   <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀3️⃣</h3>
-    <a href="https://ansar--md--pair--web--etc-7a164418104c.herokuapp.com/">
-        <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-blue?style=for-the-badge&logo=heroku&logoColor=white">
-    </a>
-</div>
-<br>
-       <div align="center">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</div>
-
 <div align="center">
     
 
