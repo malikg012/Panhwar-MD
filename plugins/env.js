@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 *AWAIS-MD* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 *Pᴀɴʜᴡᴀʀ-Mᴅ* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://qu.ax/QkpAj.jpg' }, // Image URL
+                image: { url: 'https://i.imghippo.com/files/VlzR4698Zv.jpg' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: "AWAIS MD",
+                        newsletterName: "Aɴsᴀʀ",
                         serverMessageId: 143
                     }
                 }
