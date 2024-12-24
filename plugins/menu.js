@@ -14,16 +14,16 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         let dec = `╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
-┃★╭──────────────
-┃★│ Owner : *${config.BOT_NAME}*
-┃★│ Baileys : *Multi Device*
-┃★│ Type : *NodeJs*
-┃★│ Platform : *Heroku*
-┃★│ Mode : *[${config.MODE}]*
-┃★│ Prifix : *[${config.PREFIX}]*
-┃★│ Version : *v 2.0.0*
-┃★╰──────────────
-╰━━━━━━━━━━━━━━━┈⊷
+*┃★╭──────────────*
+*┃★│ Owner* : *${config.BOT_NAME}*
+*┃★│ Baileys* : *Multi Device*
+*┃★│ Type* : *NodeJs*
+*┃★│ Platform* : *Heroku*
+*┃★│ Mode* : *[${config.MODE}]*
+*┃★│ Prifix* : *[${config.PREFIX}]*
+*┃★│ Version* : *v 2.0.0*
+*┃★╰──────────────*
+*╰━━━━━━━━━━━━━━━┈⊷*
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• aimenu
