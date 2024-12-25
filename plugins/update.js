@@ -37,7 +37,7 @@ cmd({
         });
 
         // ارسال پیام موفقیت
-        await conn.sendMessage(from, { text: '*✅ Update completed successfully!*' }, { quoted: mek });
+        await conn.sendMessage(from, { text: '*👑 Update completed successfully!*' }, { quoted: mek });
     } catch (error) {
         console.error(error);
         reply(`*Error during update:* ${error.message}`);
