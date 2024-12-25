@@ -62,3 +62,4 @@ await conn.sendMessage(from, { audio: { url: url }, mimetype: 'audio/mpeg', ptt:
 reply(`${a}`)
 }
 })
+
