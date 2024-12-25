@@ -1,7 +1,7 @@
 {
   "name": "PANHWAR-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘᴀɴʜᴡᴀʀ ᴍᴅ",
-  "logo": "https://i.imghippo.com/files/VlzR4698Zv.jpg",
+  "logo": "https://i.ibb.co/KsGQPvS/Manul-Ofc-X.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.imghippo.com/files/VlzR4698Zv.jpg"
+      "value": "https://i.ibb.co/KsGQPvS/Manul-Ofc-X.jpg"
     }, 
     
     "ALIVE_MSG": {
