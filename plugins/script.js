@@ -29,11 +29,11 @@ await conn.sendMessage(from, { text: repo ,
     mentionedJid: [ '' ],
     groupMentions: [],
     forwardingScore: 999,
-    isForwarded: false,
+    isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '12036323288171807@newsletter',
-      newsletterName: "UMAR",
-      serverMessageId: 999
+      newsletterJid: '120363321103874131@newsletter',
+      newsletterName: "Panhwar🫀💀👑",
+      serverMessageId: 144
     },
 externalAdReply: { 
 title: 'PANHWAR MD',
