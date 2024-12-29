@@ -32,7 +32,7 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363321103874131@newsletter',
-      newsletterName: "Panhwar🫀💀👑",
+      newsletterName: "ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ",
       serverMessageId: 144
     },
 externalAdReply: { 
@@ -40,7 +40,7 @@ title: 'PANHWAR MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
-thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
+thumbnailUrl: "https://i.ibb.co/59675LG/Manul-Ofc-X.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
