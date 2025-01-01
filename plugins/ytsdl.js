@@ -88,7 +88,7 @@ let ytmsg = `╭━━━〔 *PANHWAR-MD* 〕━━━┈⊷
 ┇๏ *Author* -  ${yts.author.name} 
 ┇๏ *Link* -  ${yts.url}
 ╰━━❑━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ KʜᴀɴX-Aɪ ♡*`
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ Ansar-Panhwar ♡*`
 // SEND DETAILS
 await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `${ytmsg}`}, { quoted: mek });
 
