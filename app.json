@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "u2IH2b7C#2FdqcpZtqYCWcuwb0-rOKYVWoOtHxFgl4neOTY5bzLU",
       "required": true,
-      "value": ""
+      "value": "u2IH2b7C#2FdqcpZtqYCWcuwb0-rOKYVWoOtHxFgl4neOTY5bzLU"
     },  
     
     "ALIVE_IMG": {
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -52,13 +52,13 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -130,7 +130,7 @@
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
     "CAPTION": {
@@ -141,7 +141,7 @@
     "AUTO_STATUS__MSG": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒑𝒂𝒏𝒉𝒘𝒂𝒓 𝒎𝒅"
+      "value": "𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘𝒃𝒚 𝑍𝑖𝐷𝑖 𝒎𝒅"
     }
 
 
